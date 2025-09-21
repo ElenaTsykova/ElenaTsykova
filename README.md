@@ -38,7 +38,7 @@
 ### 🌐 Связаться со мной  
 
 <p align="left">
-  <a href="https://t.me/linolenicacid"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/linolenic_acid"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:tsykova.elena@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
