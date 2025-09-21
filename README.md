@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRncDhuZnJtZXdlbm9uczd0MzlsdXdwOTkyc3ZneXQ4M2NsczA2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif" width="300"/>
 </p>
 
----
-
 ### 🎯 О себе  
 ✨ Превращаю массивы данных в понятные истории и инсайты для бизнеса
 
@@ -39,7 +37,6 @@
 
 <p align="left">
   <a href="https://t.me/linolenic_acid"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:tsykova.elena@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
