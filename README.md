@@ -40,6 +40,13 @@
 Результат:
 сэкономила час работы сотрудника ежедневно 
 Стек: Airflow, Python
+---
+### 🧮 Проекты
+
+<p align="left">
+  <a href="https://github.com/ElenaTsykova/practicum_projects"><img src="https://img.icons8.com/?size=100&id=vpZ1dBgCBtjZ&format=png&color=000000"/></a>
+</p>
+
  
 ---
 
